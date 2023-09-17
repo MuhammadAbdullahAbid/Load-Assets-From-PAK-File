@@ -1,0 +1,16 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "E5FB9C771526E10FCB7723C72474F17BA75F2A73",
+			"Assets": [
+				"/Game/Wattson/Materials/wattson_gear",
+				"/Game/Wattson/Materials/wattson_jacket",
+				"/Game/Wattson/Materials/wattson_suit",
+				"/Game/Wattson/Materials/wattson_head",
+				"/Game/Wattson/Materials/wattson_hair",
+				"/Game/Wattson/Materials/wattson_jumpkit"
+			]
+		}
+	]
+}

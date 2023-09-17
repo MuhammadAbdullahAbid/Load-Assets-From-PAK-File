@@ -1,0 +1,208 @@
+{
+	"Files": [
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Wattson_PhysicsAsset.uasset",
+			"ChunkId": "a9d50f02b30becfd00000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Wattson_Skeleton.uasset",
+			"ChunkId": "7d375f74092d11ee00000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Gear_D.uasset",
+			"ChunkId": "ebde182ca1c0748400000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Gear_D.ubulk",
+			"ChunkId": "ebde182ca1c0748400000002"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Wattson.uasset",
+			"ChunkId": "c46ae04c970c675c00000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/TestDLC.umap",
+			"ChunkId": "71cf51809f30f79700000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Hair_D.uasset",
+			"ChunkId": "774d3c2e051b8d1100000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Hair_D.ubulk",
+			"ChunkId": "774d3c2e051b8d1100000002"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Face_D.uasset",
+			"ChunkId": "9d190a47c42e927400000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Face_D.ubulk",
+			"ChunkId": "9d190a47c42e927400000002"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Jacket_D.uasset",
+			"ChunkId": "196f5bffd22c2d0800000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Jacket_D.ubulk",
+			"ChunkId": "196f5bffd22c2d0800000002"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Jumpkit_D.uasset",
+			"ChunkId": "57d39d601d23765d00000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Jumpkit_D.ubulk",
+			"ChunkId": "57d39d601d23765d00000002"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Suit_D.uasset",
+			"ChunkId": "a01bda2562d555a200000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/Textures/Suit_D.ubulk",
+			"ChunkId": "a01bda2562d555a200000002"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/wattson_gear.uasset",
+			"ChunkId": "06b4b1231559d5d900000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/wattson_jacket.uasset",
+			"ChunkId": "51607f4af55e29cb00000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/wattson_suit.uasset",
+			"ChunkId": "102e4edc97ffb0c700000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/wattson_head.uasset",
+			"ChunkId": "9933749a43fd314700000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/wattson_hair.uasset",
+			"ChunkId": "faeb6e2f9588c0cd00000001"
+		},
+		{
+			"Path": "LoadAssets_Pak/Content/Wattson/Materials/wattson_jumpkit.uasset",
+			"ChunkId": "a30e3112d45c964700000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/Game/Wattson/Wattson_PhysicsAsset",
+			"ExportBundleChunkIds": [
+				"a9d50f02b30becfd00000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Wattson_Skeleton",
+			"ExportBundleChunkIds": [
+				"7d375f74092d11ee00000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/Textures/Gear_D",
+			"ExportBundleChunkIds": [
+				"ebde182ca1c0748400000001"
+			],
+			"BulkDataChunkIds": [
+				"ebde182ca1c0748400000002"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Wattson",
+			"ExportBundleChunkIds": [
+				"c46ae04c970c675c00000001"
+			]
+		},
+		{
+			"Name": "/Game/TestDLC",
+			"ExportBundleChunkIds": [
+				"71cf51809f30f79700000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/Textures/Hair_D",
+			"ExportBundleChunkIds": [
+				"774d3c2e051b8d1100000001"
+			],
+			"BulkDataChunkIds": [
+				"774d3c2e051b8d1100000002"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/Textures/Face_D",
+			"ExportBundleChunkIds": [
+				"9d190a47c42e927400000001"
+			],
+			"BulkDataChunkIds": [
+				"9d190a47c42e927400000002"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/Textures/Jacket_D",
+			"ExportBundleChunkIds": [
+				"196f5bffd22c2d0800000001"
+			],
+			"BulkDataChunkIds": [
+				"196f5bffd22c2d0800000002"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/Textures/Jumpkit_D",
+			"ExportBundleChunkIds": [
+				"57d39d601d23765d00000001"
+			],
+			"BulkDataChunkIds": [
+				"57d39d601d23765d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/Textures/Suit_D",
+			"ExportBundleChunkIds": [
+				"a01bda2562d555a200000001"
+			],
+			"BulkDataChunkIds": [
+				"a01bda2562d555a200000002"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/wattson_gear",
+			"ExportBundleChunkIds": [
+				"06b4b1231559d5d900000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/wattson_jacket",
+			"ExportBundleChunkIds": [
+				"51607f4af55e29cb00000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/wattson_suit",
+			"ExportBundleChunkIds": [
+				"102e4edc97ffb0c700000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/wattson_head",
+			"ExportBundleChunkIds": [
+				"9933749a43fd314700000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/wattson_hair",
+			"ExportBundleChunkIds": [
+				"faeb6e2f9588c0cd00000001"
+			]
+		},
+		{
+			"Name": "/Game/Wattson/Materials/wattson_jumpkit",
+			"ExportBundleChunkIds": [
+				"a30e3112d45c964700000001"
+			]
+		}
+	]
+}
